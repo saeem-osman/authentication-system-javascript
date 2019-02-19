@@ -1,0 +1,16 @@
+dependencies:
+        //express
+        //mongoose
+        //body-parser
+        //morgan
+
+
+//use bcrypt library to encrypt user password
+
+//salt is randomly generated string of characer//use for encryption
+
+//json web token jwt for creating authentication token
+
+//passport is a authentication library for node and express
+//passport-jwt to route to sign in
+//passport-local authentication plugin
